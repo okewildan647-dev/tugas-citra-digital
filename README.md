@@ -1,6 +1,6 @@
 # Tugas Citra Digital
 
-Tugas pemrosesan citra digital menggunakan Python dengan pustaka **NumPy**, **Pandas**,
+Tugas pemrosesan citra digital menggunakan Python dengan Library **NumPy**, **Pandas**,
 **Pillow**, dan **Matplotlib**. Analisis dilakukan pada citra `JKW.jfif` untuk
 mengidentifikasi format berkas, mode warna, dimensi, bentuk array, serta memverifikasi
 kecocokan nilai piksel yang dibaca Pillow dengan nilai piksel pada array NumPy.
